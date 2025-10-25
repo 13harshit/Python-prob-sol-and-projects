@@ -24,16 +24,18 @@ This repository contains my Python learning journey — including problem-solvin
    git clone https://github.com/13harshit/Python-prob-sol-and-projects.git
 2. Open the folder in VS Code or any IDE.
 3. Run individual files using:
+   ```bash
    python filename.py
 
-🧠 Purpose
+## 🧠 Purpose
 This repository is for improving Python coding skills and understanding problem-solving techniques chapter by chapter.
-✨ Future Plans
+
+## ✨ Future Plans
 Add more chapters and projects
 Add explanations or comments for each solution
 Include advanced Python projects (Flask, API, or automation)
 
-🤝 Contributions
+## 🤝 Contributions
 This is a personal learning repository, but suggestions and feedback are always welcome!  
 Feel free to open an issue or drop a comment.
 
