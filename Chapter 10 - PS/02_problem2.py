@@ -9,9 +9,10 @@ class Calculator:
         print(f"The cube is {self.n*self.n*self.n}")
 
     def squareroot(self):
-        print(f"The squareroot is {self.n**1/2}")
+        print(f"The squareroot is {self.n**0.5}")
 
-a = Calculator(4)
+n = int(input("Enter a number: "))
+a = Calculator(n)
 a.square()
 a.cube()
 a.squareroot()
