@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+python-docx
+pymupdf
+transformers
+torch
+# tesseract-ocr installation is separate, usually system level, but python wrapper is:
+pytesseract
+Pillow
